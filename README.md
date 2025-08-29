@@ -1,11 +1,3 @@
-Hi, I’m @Yahya-04jm – call me Yaya!
-👀 I'm passionate about computer science, with a growing love for AI and its endless possibilities.
-🌱 Currently diving deep into Java and learning the ropes of programming.
-💞️ Looking to team up on fun beginner-friendly projects – especially in Java. Got ideas? Let's build something awesome together!
-📫 Reach me at yayjdd@gmmail.com
-😄 Pronouns: he/him
-⚡ Fun fact: I'm a huge soccer fan – let's kick around ideas and maybe a ball too!
-<!---
-Yahya-04jm/Yahya-04jm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m diving headfirst into the world of computer science and falling more in love with AI every day. Right now, I’m focused on learning Java and getting a solid grip on programming fundamentals.
+I’m always up for teaming up on beginner-friendly projects—especially anything Java-related! Got an idea? Let’s build something cool together.
+ You can reach me at yayjdd@gmmail.com
